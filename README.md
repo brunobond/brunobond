@@ -1,16 +1,19 @@
-### Hi there 2👋
-Eu sou o Bruno!
+### Hello! 👋
+ Nice to see you here.
+ I am Bruno Bond Carrenho.
+ 
 
-**brunobond/brunobond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bruno** is a student that has interests in many subjects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on civil engineering.
 
+- 🌱 I’m currently learning about Python and CSS.
+
+- 💬 Ask me about something.
+
+- 📫 To reach me: call +55479999970014
+
+- ⚡ Fun fact: .I lived in US and Paraguay.
+
+![](https://visitor-badge.glitch.me/badge?page_id=brunobond)
